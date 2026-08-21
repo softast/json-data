@@ -1,0 +1,16 @@
+{
+  "baseUrl": "",
+  "linksVersion": 1,
+  "links": {
+    "ch_01": [
+      {
+        "path": "https://cdn.jsdelivr.net/gh/softast/json-data@main/encrypted_data/2.bin"
+      }
+    ],
+    "ch_02": [
+      {
+        "path": "https://cdn.jsdelivr.net/gh/softast/json-data@main/encrypted_data/2.bin"
+      }
+    ]
+  }
+}
